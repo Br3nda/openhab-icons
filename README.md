@@ -2,11 +2,11 @@
 
 Collection of useful icons from TheNounProject
 
-!(fridge.png)
-!(window.png)
-!(water.png)
-!(bath.png)
-!(oven.png)
-!(plant.png)
-!(fan.png)
-!(cat.png)
+![Fridge](fridge.png)
+![Window](window.png)
+![Water](water.png)
+![Bath](bath.png)
+![Oven](oven.png)
+![Plant](plant.png)
+![Fan](fan.png)
+![Cat](cat.png)
