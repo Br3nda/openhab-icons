@@ -1,0 +1,123 @@
+{
+  "icon": {
+    "attribution": "Exit by Luis Prado from Noun Project",
+    "attribution_preview_url": "https://d30y9cdsu7xlg0.cloudfront.net/attribution/26551-600.png",
+    "collections": [],
+    "date_uploaded": "2013-11-17",
+    "id": "26551",
+    "is_active": "1",
+    "license_description": "creative-commons-attribution",
+    "permalink": "/term/exit/26551",
+    "preview_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/26551-200.png",
+    "preview_url_42": "https://d30y9cdsu7xlg0.cloudfront.net/png/26551-42.png",
+    "preview_url_84": "https://d30y9cdsu7xlg0.cloudfront.net/png/26551-84.png",
+    "sponsor": {},
+    "sponsor_campaign_link": null,
+    "sponsor_id": "",
+    "tags": [
+      {
+        "id": 47,
+        "slug": "exit"
+      },
+      {
+        "id": 1543,
+        "slug": "hallway"
+      },
+      {
+        "id": 340,
+        "slug": "house"
+      },
+      {
+        "id": 7008,
+        "slug": "leave"
+      },
+      {
+        "id": 9033,
+        "slug": "opening-door"
+      },
+      {
+        "id": 12405,
+        "slug": "outside"
+      },
+      {
+        "id": 602,
+        "slug": "person"
+      },
+      {
+        "id": 291,
+        "slug": "running"
+      },
+      {
+        "id": 802,
+        "slug": "safety"
+      },
+      {
+        "id": 30,
+        "slug": "stairs"
+      },
+      {
+        "id": 2329,
+        "slug": "freedom"
+      },
+      {
+        "id": 17033,
+        "slug": "fire-escape"
+      },
+      {
+        "id": 1023,
+        "slug": "fire"
+      },
+      {
+        "id": 20983,
+        "slug": "alternative-route"
+      },
+      {
+        "id": 1208,
+        "slug": "building"
+      },
+      {
+        "id": 4165,
+        "slug": "crowd"
+      },
+      {
+        "id": 3961,
+        "slug": "disaster"
+      },
+      {
+        "id": 20984,
+        "slug": "doorway-out"
+      },
+      {
+        "id": 10317,
+        "slug": "emergency-exit"
+      },
+      {
+        "id": 20985,
+        "slug": "escape-route"
+      },
+      {
+        "id": 8837,
+        "slug": "evacuation"
+      },
+      {
+        "id": 19538,
+        "slug": "exit-sign"
+      },
+      {
+        "id": 1556,
+        "slug": "structure"
+      }
+    ],
+    "term": "Exit",
+    "term_id": 47,
+    "term_slug": "exit",
+    "uploader": {
+      "location": "Olympia, WA, Washington, US",
+      "name": "Luis Prado",
+      "permalink": "/Luis",
+      "username": "Luis"
+    },
+    "uploader_id": "3490",
+    "year": 2013
+  }
+}

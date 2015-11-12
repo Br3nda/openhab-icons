@@ -1,0 +1,59 @@
+{
+  "icon": {
+    "attribution": "Sofa by Sofie Hauge Katan from Noun Project",
+    "attribution_preview_url": "https://d30y9cdsu7xlg0.cloudfront.net/attribution/1390-600.png",
+    "collections": [],
+    "date_uploaded": "2012-02-12",
+    "id": "1390",
+    "is_active": "1",
+    "license_description": "creative-commons-attribution",
+    "permalink": "/term/sofa/1390",
+    "preview_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/1390-200.png",
+    "preview_url_42": "https://d30y9cdsu7xlg0.cloudfront.net/png/1390-42.png",
+    "preview_url_84": "https://d30y9cdsu7xlg0.cloudfront.net/png/1390-84.png",
+    "sponsor": {},
+    "sponsor_campaign_link": null,
+    "sponsor_id": "",
+    "tags": [
+      {
+        "id": 2225,
+        "slug": "sofa"
+      },
+      {
+        "id": 2226,
+        "slug": "couch"
+      },
+      {
+        "id": 2227,
+        "slug": "davenport"
+      },
+      {
+        "id": 1595,
+        "slug": "furniture"
+      },
+      {
+        "id": 339,
+        "slug": "home"
+      },
+      {
+        "id": 2228,
+        "slug": "living-room"
+      },
+      {
+        "id": 2229,
+        "slug": "seating"
+      }
+    ],
+    "term": "Sofa",
+    "term_id": 2225,
+    "term_slug": "sofa",
+    "uploader": {
+      "location": "K\u00f8benhavn N, Danmark, DK",
+      "name": "Sofie Hauge Katan",
+      "permalink": "/sofie.katan",
+      "username": "sofie.katan"
+    },
+    "uploader_id": "1170",
+    "year": 2012
+  }
+}
