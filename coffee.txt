@@ -1,0 +1,60 @@
+{
+  "icon": {
+    "attribution": "Coffee from Noun Project",
+    "collections": [
+      {
+        "author": {
+          "location": "Los Angeles, US",
+          "name": "Edward Boatman",
+          "permalink": "/edward",
+          "username": "edward"
+        },
+        "author_id": "6",
+        "date_created": "2012-01-27 19:15:26",
+        "date_updated": "2012-09-27 13:27:02",
+        "description": "",
+        "id": "3",
+        "is_collaborative": "",
+        "is_featured": "1",
+        "is_published": "1",
+        "is_store_item": "0",
+        "name": "AIGA",
+        "permalink": "/edward/collection/aiga",
+        "slug": "aiga",
+        "sponsor": {},
+        "sponsor_campaign_link": "",
+        "sponsor_id": "",
+        "tags": [],
+        "template": "24"
+      }
+    ],
+    "date_uploaded": "",
+    "icon_url": "https://d30y9cdsu7xlg0.cloudfront.net/noun-svg/16.svg?Expires=1447298181&Signature=U68iMJNvbNmP~nfQ1YghDOnzFvdzKR5JqY9oONnSC~IPhV3w3n3Ajj4fmXS-GMpLjjlxeuvIFfo6QTTACwCXln0eUDZWqUbla5XN6D6f4af~urmZg1kaNyxQyzKKJNCgn2iUVF8WxPP8-ujdslHTanA5~4F4~tIl0jZtdaQiDjA_&Key-Pair-Id=APKAI5ZVHAXN65CHVU2Q",
+    "id": "16",
+    "is_active": "1",
+    "license_description": "public-domain",
+    "permalink": "/term/coffee/16",
+    "preview_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/16-200.png",
+    "preview_url_42": "https://d30y9cdsu7xlg0.cloudfront.net/png/16-42.png",
+    "preview_url_84": "https://d30y9cdsu7xlg0.cloudfront.net/png/16-84.png",
+    "sponsor": {},
+    "sponsor_campaign_link": null,
+    "sponsor_id": "",
+    "tags": [
+      {
+        "id": 43,
+        "slug": "coffee"
+      },
+      {
+        "id": 44,
+        "slug": "coffeeshop"
+      }
+    ],
+    "term": "Coffee",
+    "term_id": 43,
+    "term_slug": "coffee",
+    "uploader": {},
+    "uploader_id": "",
+    "year": 1974
+  }
+}

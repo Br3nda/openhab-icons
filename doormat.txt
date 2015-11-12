@@ -1,0 +1,181 @@
+{
+  "icon": {
+    "attribution": "towel by Gilad Fried from Noun Project",
+    "attribution_preview_url": "https://d30y9cdsu7xlg0.cloudfront.net/attribution/168897-600.png",
+    "collections": [
+      {
+        "author": {
+          "location": "Tel Aviv, IL",
+          "name": "Gilad Fried",
+          "permalink": "/gilad1",
+          "username": "gilad1"
+        },
+        "author_id": "6320",
+        "date_created": "2015-06-25 19:13:17",
+        "date_updated": "2015-06-25 19:13:17",
+        "description": "",
+        "id": "5552",
+        "is_collaborative": "",
+        "is_featured": "0",
+        "is_published": "1",
+        "is_store_item": "0",
+        "name": "Summer Time",
+        "permalink": "/gilad1/collection/summer-time",
+        "slug": "summer-time",
+        "sponsor": {},
+        "sponsor_campaign_link": "",
+        "sponsor_id": "",
+        "tags": [],
+        "template": "24"
+      }
+    ],
+    "date_uploaded": "2015-06-25",
+    "id": "168897",
+    "is_active": "1",
+    "license_description": "creative-commons-attribution",
+    "permalink": "/term/towel/168897",
+    "preview_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/168897-200.png",
+    "preview_url_42": "https://d30y9cdsu7xlg0.cloudfront.net/png/168897-42.png",
+    "preview_url_84": "https://d30y9cdsu7xlg0.cloudfront.net/png/168897-84.png",
+    "sponsor": {},
+    "sponsor_campaign_link": null,
+    "sponsor_id": "",
+    "tags": [
+      {
+        "id": 3173,
+        "slug": "towel"
+      },
+      {
+        "id": 6881,
+        "slug": "sheet"
+      },
+      {
+        "id": 1963,
+        "slug": "skin"
+      },
+      {
+        "id": 2380,
+        "slug": "soft"
+      },
+      {
+        "id": 741,
+        "slug": "summer"
+      },
+      {
+        "id": 82894,
+        "slug": "summer-time"
+      },
+      {
+        "id": 36177,
+        "slug": "summertime"
+      },
+      {
+        "id": 7385,
+        "slug": "swimming-pool"
+      },
+      {
+        "id": 1837,
+        "slug": "textile"
+      },
+      {
+        "id": 14448,
+        "slug": "texture"
+      },
+      {
+        "id": 100277,
+        "slug": "dry-out"
+      },
+      {
+        "id": 100278,
+        "slug": "pool-towel"
+      },
+      {
+        "id": 100279,
+        "slug": "bath-mat"
+      },
+      {
+        "id": 100280,
+        "slug": "doormat"
+      },
+      {
+        "id": 2871,
+        "slug": "rug"
+      },
+      {
+        "id": 1597,
+        "slug": "rest"
+      },
+      {
+        "id": 1440,
+        "slug": "print"
+      },
+      {
+        "id": 16,
+        "slug": "beach"
+      },
+      {
+        "id": 27717,
+        "slug": "beach-towel"
+      },
+      {
+        "id": 10101,
+        "slug": "bedding"
+      },
+      {
+        "id": 5727,
+        "slug": "blanket"
+      },
+      {
+        "id": 7050,
+        "slug": "carpet"
+      },
+      {
+        "id": 2260,
+        "slug": "cover"
+      },
+      {
+        "id": 2286,
+        "slug": "design"
+      },
+      {
+        "id": 1082,
+        "slug": "dry"
+      },
+      {
+        "id": 1036,
+        "slug": "fabric"
+      },
+      {
+        "id": 8253,
+        "slug": "garment"
+      },
+      {
+        "id": 44638,
+        "slug": "lay"
+      },
+      {
+        "id": 34063,
+        "slug": "mat"
+      },
+      {
+        "id": 484,
+        "slug": "pool"
+      },
+      {
+        "id": 100281,
+        "slug": "textile-design"
+      }
+    ],
+    "term": "towel",
+    "term_id": 3173,
+    "term_slug": "towel",
+    "uploader": {
+      "location": "Tel Aviv, IL",
+      "name": "Gilad Fried",
+      "permalink": "/gilad1",
+      "username": "gilad1"
+    },
+    "uploader_id": "6320",
+    "year": 2015
+  }
+}

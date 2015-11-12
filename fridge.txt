@@ -1,0 +1,113 @@
+{
+  "icon": {
+    "attribution": "Fridge by Arthur Shlain from Noun Project",
+    "attribution_preview_url": "https://d30y9cdsu7xlg0.cloudfront.net/attribution/58967-600.png",
+    "collections": [
+      {
+        "author": {
+          "location": "Perm, Perm Krai, RU",
+          "name": "Arthur Shlain",
+          "permalink": "/ArtZ91",
+          "username": "ArtZ91"
+        },
+        "author_id": "15311",
+        "date_created": "2014-06-04 04:34:44",
+        "date_updated": "2014-06-04 04:34:44",
+        "description": "",
+        "id": "64",
+        "is_collaborative": "",
+        "is_featured": "0",
+        "is_published": "1",
+        "is_store_item": "0",
+        "name": "Simple curly icons",
+        "permalink": "/ArtZ91/collection/simple-curly-icons",
+        "slug": "simple-curly-icons",
+        "sponsor": {},
+        "sponsor_campaign_link": "",
+        "sponsor_id": "",
+        "tags": [
+          "bordered",
+          "icon",
+          "line",
+          "figure",
+          "simple",
+          "curly",
+          "shape"
+        ],
+        "template": "24"
+      }
+    ],
+    "date_uploaded": "2014-07-07",
+    "id": "58967",
+    "is_active": "1",
+    "license_description": "creative-commons-attribution",
+    "permalink": "/term/fridge/58967",
+    "preview_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/58967-200.png",
+    "preview_url_42": "https://d30y9cdsu7xlg0.cloudfront.net/png/58967-42.png",
+    "preview_url_84": "https://d30y9cdsu7xlg0.cloudfront.net/png/58967-84.png",
+    "sponsor": {},
+    "sponsor_campaign_link": null,
+    "sponsor_id": "",
+    "tags": [
+      {
+        "id": 2892,
+        "slug": "fridge"
+      },
+      {
+        "id": 15769,
+        "slug": "kitchen-appliance"
+      },
+      {
+        "id": 754,
+        "slug": "kitchen"
+      },
+      {
+        "id": 36694,
+        "slug": "keep-frozen"
+      },
+      {
+        "id": 43954,
+        "slug": "keep-cold"
+      },
+      {
+        "id": 31415,
+        "slug": "icebox"
+      },
+      {
+        "id": 39205,
+        "slug": "household-appliance"
+      },
+      {
+        "id": 43953,
+        "slug": "frig"
+      },
+      {
+        "id": 5325,
+        "slug": "cooler"
+      },
+      {
+        "id": 43952,
+        "slug": "cold-storage"
+      },
+      {
+        "id": 1854,
+        "slug": "appliance"
+      },
+      {
+        "id": 2890,
+        "slug": "refrigerator"
+      }
+    ],
+    "term": "Fridge",
+    "term_id": 2892,
+    "term_slug": "fridge",
+    "uploader": {
+      "location": "Perm, Perm Krai, RU",
+      "name": "Arthur Shlain",
+      "permalink": "/ArtZ91",
+      "username": "ArtZ91"
+    },
+    "uploader_id": "15311",
+    "year": 2014
+  }
+}

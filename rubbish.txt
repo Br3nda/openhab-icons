@@ -1,0 +1,89 @@
+{
+  "icon": {
+    "attribution": "Trash Can by John Caserta from Noun Project",
+    "attribution_preview_url": "https://d30y9cdsu7xlg0.cloudfront.net/attribution/1237-600.png",
+    "collections": [
+      {
+        "author": {
+          "location": "Providence, Rhode Island, US",
+          "name": "John Caserta",
+          "permalink": "/johncaserta",
+          "username": "johncaserta"
+        },
+        "author_id": "2113",
+        "date_created": "2012-02-08 13:57:33",
+        "date_updated": "2012-09-27 00:20:01",
+        "description": "",
+        "id": "5",
+        "is_collaborative": "",
+        "is_featured": "1",
+        "is_published": "1",
+        "is_store_item": "0",
+        "name": "Modern Pictograms",
+        "permalink": "/johncaserta/collection/modern-pictograms",
+        "slug": "modern-pictograms",
+        "sponsor": {},
+        "sponsor_campaign_link": "",
+        "sponsor_id": "",
+        "tags": [],
+        "template": "24"
+      }
+    ],
+    "date_uploaded": "2012-02-04",
+    "id": "1237",
+    "is_active": "1",
+    "license_description": "creative-commons-attribution",
+    "permalink": "/term/trash-can/1237",
+    "preview_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/1237-200.png",
+    "preview_url_42": "https://d30y9cdsu7xlg0.cloudfront.net/png/1237-42.png",
+    "preview_url_84": "https://d30y9cdsu7xlg0.cloudfront.net/png/1237-84.png",
+    "sponsor": {},
+    "sponsor_campaign_link": null,
+    "sponsor_id": "",
+    "tags": [
+      {
+        "id": 1974,
+        "slug": "trash-can"
+      },
+      {
+        "id": 1627,
+        "slug": "can"
+      },
+      {
+        "id": 1461,
+        "slug": "container"
+      },
+      {
+        "id": 20,
+        "slug": "garbage"
+      },
+      {
+        "id": 1975,
+        "slug": "junk"
+      },
+      {
+        "id": 98,
+        "slug": "recycle"
+      },
+      {
+        "id": 1976,
+        "slug": "rubbish"
+      },
+      {
+        "id": 19,
+        "slug": "trash"
+      }
+    ],
+    "term": "Trash Can",
+    "term_id": 1974,
+    "term_slug": "trash-can",
+    "uploader": {
+      "location": "Providence, Rhode Island, US",
+      "name": "John Caserta",
+      "permalink": "/johncaserta",
+      "username": "johncaserta"
+    },
+    "uploader_id": "2113",
+    "year": 2011
+  }
+}
