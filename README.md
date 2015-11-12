@@ -1,4 +1,5 @@
-== openHAB icons ==
+
+== openHAB icons
 
 Collection of useful icons from TheNounProject
 
@@ -10,3 +11,5 @@ Collection of useful icons from TheNounProject
 ![Plant](plant.png)
 ![Fan](fan.png)
 ![Cat](cat.png)
+
+credit for each image is in .txt files
