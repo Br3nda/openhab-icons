@@ -3,7 +3,7 @@
     "attribution": "heater by David Cadusseau from Noun Project",
     "collections": [],
     "date_uploaded": "2012-11-16",
-    "icon_url": "https://d30y9cdsu7xlg0.cloudfront.net/noun-svg/7834.svg?Expires=1447298190&Signature=fcLZNvHUzjHtrFx6zJhhNBO6EjC0i4BFT7dMdvYOQ6wp2UhIBrgai4LTkZsGnZxnqztra0suZXk7Xn~mWh-qOV2kFLH0htyXdh0loneXkYJRVstKzvCT4P4w45zbNbilrThxQCSdX5AyM44EAGmCKRGSGyQv1havo74ZkCwneGc_&Key-Pair-Id=APKAI5ZVHAXN65CHVU2Q",
+    "icon_url": "https://d30y9cdsu7xlg0.cloudfront.net/noun-svg/7834.svg?Expires=1447298779&Signature=QrEXMZHHRvrc6H2Pj0HXlw~Ja~7cgsiz1TcRF6eWqikKkZrCjeWzaW1d86m0nFmJ4F7axcELY7DSCyISFf-u3OVm-ieSTQKA4qFRAnbvZIWYxkO0SiegQmb2ECX5xKKllBxirg8fSeDLgooae~JBikqMGXBXFhVGq7vW-Ri0K3s_&Key-Pair-Id=APKAI5ZVHAXN65CHVU2Q",
     "id": "7834",
     "is_active": "1",
     "license_description": "public-domain",

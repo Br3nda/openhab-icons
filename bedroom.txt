@@ -1,0 +1,95 @@
+{
+  "icon": {
+    "attribution": "bedroom by Chuck Spidell from Noun Project",
+    "attribution_preview_url": "https://d30y9cdsu7xlg0.cloudfront.net/attribution/50453-600.png",
+    "collections": [],
+    "date_uploaded": "2014-05-16",
+    "id": "50453",
+    "is_active": "1",
+    "license_description": "creative-commons-attribution",
+    "permalink": "/term/bedroom/50453",
+    "preview_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/50453-200.png",
+    "preview_url_42": "https://d30y9cdsu7xlg0.cloudfront.net/png/50453-42.png",
+    "preview_url_84": "https://d30y9cdsu7xlg0.cloudfront.net/png/50453-84.png",
+    "sponsor": {},
+    "sponsor_campaign_link": null,
+    "sponsor_id": "",
+    "tags": [
+      {
+        "id": 5166,
+        "slug": "bedroom"
+      },
+      {
+        "id": 27868,
+        "slug": "pillows"
+      },
+      {
+        "id": 18138,
+        "slug": "night-stand"
+      },
+      {
+        "id": 34524,
+        "slug": "nighstand"
+      },
+      {
+        "id": 34510,
+        "slug": "motels"
+      },
+      {
+        "id": 3620,
+        "slug": "motel"
+      },
+      {
+        "id": 34521,
+        "slug": "mid-century-modern"
+      },
+      {
+        "id": 1526,
+        "slug": "lamp"
+      },
+      {
+        "id": 34509,
+        "slug": "hotels"
+      },
+      {
+        "id": 72,
+        "slug": "hotel"
+      },
+      {
+        "id": 1595,
+        "slug": "furniture"
+      },
+      {
+        "id": 9288,
+        "slug": "end-table"
+      },
+      {
+        "id": 16357,
+        "slug": "bedframe"
+      },
+      {
+        "id": 1594,
+        "slug": "bed"
+      },
+      {
+        "id": 11482,
+        "slug": "50s"
+      },
+      {
+        "id": 2208,
+        "slug": "table"
+      }
+    ],
+    "term": "bedroom",
+    "term_id": 5166,
+    "term_slug": "bedroom",
+    "uploader": {
+      "location": "Portland, OR, US",
+      "name": "Chuck Spidell",
+      "permalink": "/illusio",
+      "username": "illusio"
+    },
+    "uploader_id": "205324",
+    "year": 2014
+  }
+}

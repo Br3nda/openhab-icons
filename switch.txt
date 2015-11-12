@@ -1,0 +1,51 @@
+{
+  "icon": {
+    "attribution": "switch by Rob Schill from Noun Project",
+    "attribution_preview_url": "https://d30y9cdsu7xlg0.cloudfront.net/attribution/3361-600.png",
+    "collections": [],
+    "date_uploaded": "2012-06-27",
+    "id": "3361",
+    "is_active": "1",
+    "license_description": "creative-commons-attribution",
+    "permalink": "/term/switch/3361",
+    "preview_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/3361-200.png",
+    "preview_url_42": "https://d30y9cdsu7xlg0.cloudfront.net/png/3361-42.png",
+    "preview_url_84": "https://d30y9cdsu7xlg0.cloudfront.net/png/3361-84.png",
+    "sponsor": {},
+    "sponsor_campaign_link": null,
+    "sponsor_id": "",
+    "tags": [
+      {
+        "id": 4047,
+        "slug": "switch"
+      },
+      {
+        "id": 2837,
+        "slug": "controls"
+      },
+      {
+        "id": 4691,
+        "slug": "ios"
+      },
+      {
+        "id": 908,
+        "slug": "mobile"
+      },
+      {
+        "id": 222,
+        "slug": "settings"
+      }
+    ],
+    "term": "switch",
+    "term_id": 4047,
+    "term_slug": "switch",
+    "uploader": {
+      "location": "Mountain View, California, US",
+      "name": "Rob Schill",
+      "permalink": "/schillidog",
+      "username": "schillidog"
+    },
+    "uploader_id": "6865",
+    "year": 2012
+  }
+}
