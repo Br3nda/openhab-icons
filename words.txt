@@ -1,3 +1,4 @@
-study
-desk
-kitchen
+noise
+pressure
+humidity
+blanket

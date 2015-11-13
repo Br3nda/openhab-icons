@@ -1,0 +1,87 @@
+{
+  "icon": {
+    "attribution": "Bunsen Burner by Timothy Dilich from Noun Project",
+    "collections": [],
+    "date_uploaded": "2013-03-14",
+    "icon_url": "https://d30y9cdsu7xlg0.cloudfront.net/noun-svg/13588.svg?Expires=1447308671&Signature=e91tROtONDnSh0iZxvTkph21neiRTjcgPiGZ~dq8KyhgNrzfjvKJKRYC3Tdj~Ar9mn5vzrEUIY1V~z-cKytZjAKD85DAyn0N6bOvIx46rPna6-NVsqnIuDHxT0DEyoOkyHgH94O3vOSxPz-pqz7aPdMoWDy6JV2qesNiJZLbK-g_&Key-Pair-Id=APKAI5ZVHAXN65CHVU2Q",
+    "id": "13588",
+    "is_active": "1",
+    "license_description": "public-domain",
+    "permalink": "/term/bunsen-burner/13588",
+    "preview_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/13588-200.png",
+    "preview_url_42": "https://d30y9cdsu7xlg0.cloudfront.net/png/13588-42.png",
+    "preview_url_84": "https://d30y9cdsu7xlg0.cloudfront.net/png/13588-84.png",
+    "sponsor": {},
+    "sponsor_campaign_link": null,
+    "sponsor_id": "",
+    "tags": [
+      {
+        "id": 12513,
+        "slug": "bunsen-burner"
+      },
+      {
+        "id": 801,
+        "slug": "hazard"
+      },
+      {
+        "id": 197,
+        "slug": "gas"
+      },
+      {
+        "id": 3503,
+        "slug": "flames"
+      },
+      {
+        "id": 1023,
+        "slug": "fire"
+      },
+      {
+        "id": 3428,
+        "slug": "experiment"
+      },
+      {
+        "id": 12517,
+        "slug": "co2"
+      },
+      {
+        "id": 368,
+        "slug": "chemistry"
+      },
+      {
+        "id": 12516,
+        "slug": "chemicals"
+      },
+      {
+        "id": 12515,
+        "slug": "chemical-reactions"
+      },
+      {
+        "id": 12514,
+        "slug": "butane"
+      },
+      {
+        "id": 3500,
+        "slug": "burn"
+      },
+      {
+        "id": 12348,
+        "slug": "beakers"
+      },
+      {
+        "id": 4514,
+        "slug": "propane"
+      }
+    ],
+    "term": "Bunsen Burner",
+    "term_id": 12513,
+    "term_slug": "bunsen-burner",
+    "uploader": {
+      "location": "Evanston, Illinois, US",
+      "name": "Timothy Dilich",
+      "permalink": "/mosaic7",
+      "username": "mosaic7"
+    },
+    "uploader_id": "37726",
+    "year": 2013
+  }
+}

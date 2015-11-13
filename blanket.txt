@@ -29,7 +29,7 @@
       }
     ],
     "date_uploaded": "2012-08-21",
-    "icon_url": "https://d30y9cdsu7xlg0.cloudfront.net/noun-svg/4306.svg?Expires=1447298191&Signature=URWWG7VoNRK5-5~9~1R3gUaqfWTM7yESzPqGLZzr~Wx1lGPhGH6cualLe~qTeSNzQoZtAjm8WTYvBce-9ANUEaQXQpJWN~vZPpfcdsAYGyktQkVRUxI-b5RZQDPBcLq1xkIWP2Gux8WJaqIv7ZC19~G1L3PubhEkplkm0adAh90_&Key-Pair-Id=APKAI5ZVHAXN65CHVU2Q",
+    "icon_url": "https://d30y9cdsu7xlg0.cloudfront.net/noun-svg/4306.svg?Expires=1447410582&Signature=XPdy-LueL2S-mAVeE2iil~8f1mI1oQ9JM1BA7SdaNGhGaQ7xcmEPeEH5z4gwlBbezbWyshSWgGhlzrMTiode0eWtHBWDLnexLU3Rmb25AB41kQSjpgUZuOArK4m-hQDgKL0KdB93tE1RmrCcF8J91fsWxskuqpE6qdbKfklandI_&Key-Pair-Id=APKAI5ZVHAXN65CHVU2Q",
     "id": "4306",
     "is_active": "1",
     "license_description": "public-domain",
